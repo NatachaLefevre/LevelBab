@@ -19,3 +19,5 @@ Les visuels sont composés d’aplats de couleurs accompagnés occasionnellement
 ![LevelBab_Facebook_851x315px](https://github.com/user-attachments/assets/5d17f9b7-1b41-4b1d-98a5-746ebdec9f03)
 
 ![LevelBab_logo_final_03](https://github.com/user-attachments/assets/e012c75a-4cf5-4bcb-b5b5-9a1b1cf202de)
+
+[LevelBab_charte-graphique_RVB.pdf](https://github.com/user-attachments/files/19869116/LevelBab_charte-graphique_RVB.pdf)
