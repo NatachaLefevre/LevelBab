@@ -28,11 +28,11 @@ Les visuels sont composés d’aplats de couleurs accompagnés occasionnellement
 ![LevelBab_logo_final_03](https://github.com/user-attachments/assets/e012c75a-4cf5-4bcb-b5b5-9a1b1cf202de)
 
 ## 3. Recherches
-Pour trouver la bonne solution pour Levelbab, nous avons testé plusieurs pistes pour le logos, et fait des recherches de couleurs et d'ambiances.
+Pour trouver la bonne solution pour Levelbab, nous avons testé plusieurs pistes pour le logo, et fait des recherches de couleurs et d'ambiances.
 Voici un aperçu de ces recherches, et des planches tendances.
 
 ![LevelBab_logo-pistes](https://github.com/user-attachments/assets/bc245580-ec7e-485f-8656-d3c5871ac40d)
 
-[LevelBab_planche-couleurs.pdf](https://github.com/user-attachments/files/23011708/LevelBab_planche-couleurs.pdf)
-
-[Uploading LevelBab_planches-tendances.pdf…]()
+![LevelBab_planches-tendances_Page_1](https://github.com/user-attachments/assets/2ece897a-44f4-4a71-8911-1a0d5cb246d6)
+![LevelBab_planches-tendances_Page_2](https://github.com/user-attachments/assets/0f6032ab-daa1-414e-8bcf-c9650ba98e59)
+![LevelBab_planches-tendances_Page_3](https://github.com/user-attachments/assets/4db2097f-2036-46e9-99be-f6f5329e5cc8)
