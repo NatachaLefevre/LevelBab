@@ -1,6 +1,8 @@
 # LevelBab
 Charte graphique d'une entreprise d'aide à l'accès aux biens immobiliers.
 
+--> [LevelBab_charte-graphique_RVB.pdf](https://github.com/user-attachments/files/19869116/LevelBab_charte-graphique_RVB.pdf) <--
+
 ## 1. Contexte
 LevelBab est une entreprise qui met en relation des acheteurs et vendeurs de biens immobiliers, dans le but d’améliorer l’accession à la propriété pour les populations pauvres en France et à l’étranger.
 Le terme « bab » signifie « porte » en arabe.
@@ -18,8 +20,6 @@ Cela se traduit par des choix de typographies simples, rondes, modernes, avec un
 Les couleurs sont apaisantes, claires et chaudes, adaptables en RVB et en CMJN.
 
 Les visuels sont composés d’aplats de couleurs accompagnés occasionnellement de pictos dessinés avec des formes simples et géométriques, et de photos institutionnelles.
-
-[LevelBab_charte-graphique_RVB.pdf](https://github.com/user-attachments/files/19869116/LevelBab_charte-graphique_RVB.pdf)
 
 ![LevelBab_Instagram_1080x1080-px](https://github.com/user-attachments/assets/09760a15-0b3d-4724-8a23-ba0323176bf1)
 
